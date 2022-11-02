@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d285650236a7a704eb63c68202d312d0, type: 3}
+  m_Name: WallRadius 17
+  m_EditorClassIdentifier: 
+  description: Rad + 10
+  sprite: {fileID: 21300000, guid: 0ed8b17e7886f644cb829d9ca86aa604, type: 3}
+  sprite2: {fileID: 21300000, guid: 5b56d9fa0e8bd6e409ed188db38a692c, type: 3}
+  activated: 0
+  bought: 0
+  cost: 80
+  noResources: {fileID: 11400000, guid: 1bf86f593840eb842a309c8a1091d2aa, type: 2}
+  healWall: {fileID: 11400000, guid: 67079c799b647564cab3770c0e3a2476, type: 2}
+  resizeWall: {fileID: 11400000, guid: 91ac2a3472a53814bb00c8a81a5a29b2, type: 2}
+  wallStatistics: {fileID: 11400000, guid: 4e46cd4d8a23bb84bbbd2d12cd6e76dd, type: 2}
+  wallUpgrdes:
+  - amount: 10
+    type: 100
+    wallStat: 0
+  activable: 0

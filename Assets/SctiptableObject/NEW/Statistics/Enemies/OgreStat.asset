@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611994c4ddb35324292e1257606384be, type: 3}
+  m_Name: OgreStat
+  m_EditorClassIdentifier: 
+  health:
+    BaseValue: 3
+    _value: 3
+  speed:
+    BaseValue: 2
+    _value: 2
+  attack:
+    BaseValue: 1
+    _value: 1
+  chaseDistance:
+    BaseValue: 3
+    _value: 3
+  lootTable: {fileID: 11400000, guid: 4acb341b8f40679419e4156c4abcb2ca, type: 2}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  enemyPrefabName: Ogre
+  nightEnemy: 0
+  inGame: 1
+  power: 300

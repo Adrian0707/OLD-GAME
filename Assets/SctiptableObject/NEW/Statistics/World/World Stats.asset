@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47781b9785a6314aae9f5b51260964a, type: 3}
+  m_Name: World Stats
+  m_EditorClassIdentifier: 
+  groundIniChance: 44
+  groundBirthLimit: 4
+  groundDeathLimit: 2
+  groundNumR: 1
+  groundBeautyChance: 20
+  watherBeautyChance: 10
+  iniChanceTree: 66
+  birthLimitTree: 6
+  deathLimitTree: 5
+  numRTree: 2
+  iniChanceStone: 4
+  birthLimitStone: 7
+  deathLimitStone: 1
+  numRStone: 1
+  iniChanceEnemy: 4
+  birthLimitEnemy: 7
+  deathLimitEnemy: 1
+  numREnemy: 1

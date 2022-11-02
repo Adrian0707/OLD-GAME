@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3bfeebb5c59588499536386a99059e5, type: 3}
+  m_Name: FireplaceMaxDistance 3
+  m_EditorClassIdentifier: 
+  description: MaxDistance
+  sprite: {fileID: -6281510828644196786, guid: 29a68afedbec9404ca5a705e43641d52, type: 3}
+  sprite2: {fileID: 21300000, guid: 48c0d4d6bebaa934384b07aa1e2f8184, type: 3}
+  activated: 0
+  bought: 0
+  cost: 40
+  noResources: {fileID: 11400000, guid: 1bf86f593840eb842a309c8a1091d2aa, type: 2}
+  makePath: {fileID: 11400000, guid: 878204e5c18e12948b14c8e13393ae2c, type: 2}
+  updateViligerInfo: {fileID: 11400000, guid: 54ec51f2aa4ff4c4abaa051491cf688b, type: 2}
+  fireplaceStatistics: {fileID: 11400000, guid: 16492703828ca9c4e83f1b79b78d2609,
+    type: 2}
+  fireplaceUpgrdes:
+  - amount: 10
+    type: 100
+    fireplaceStat: 0
+  activable: 0

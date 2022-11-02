@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Viliger
+  - Blacksmith
+  - Stone
+  - StrategyGUI
+  - Buildings
+  - Tools
+  - Characters
+  - Enemies
+  - WorldObjects
+  - GameObjectsSystem
+  - GUI
+  - ObjectMenu
+  - NightLight
+  - ProtectBuildings
+  - Deffensive
+  - Offensive
+  - Storage
+  - Stuff
+  - Tree
+  - Tool
+  - Undefined
+  - Fireplace
+  - Object
+  - object
+  - ToBuild
+  - Map
+  - UpgradeSystem
+  - Mark
+  - PlayerHealth
+  - ViligerHealth
+  - EnemyHealth
+  - EnemiesSystem
+  - DayNightSystem
+  - PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Enemy Projectile
+  - Player Projectile
+  - Player
+  - Minimap
+  - Obsticle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 286132887
+    locked: 0
+  - name: Sign
+    uniqueID: 4265533271
+    locked: 0
+  - name: Colission
+    uniqueID: 1544791677
+    locked: 0
+  - name: Player
+    uniqueID: 969865985
+    locked: 0
+  - name: Gui
+    uniqueID: 1286454231
+    locked: 0

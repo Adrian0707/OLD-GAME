@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a061c3c6fbe0dfc42891bae875e116d8, type: 3}
+  m_Name: BlacsmithCostReduce 1
+  m_EditorClassIdentifier: 
+  description: BlacsmithCostReduce
+  sprite: {fileID: 9220892715235637443, guid: 29a68afedbec9404ca5a705e43641d52, type: 3}
+  sprite2: {fileID: 1133410264010472436, guid: d51dbccb646e5454c987585d0a6e2984, type: 3}
+  activated: 0
+  bought: 0
+  cost: 30
+  noResources: {fileID: 11400000, guid: 1bf86f593840eb842a309c8a1091d2aa, type: 2}
+  blacksmithStatistics: {fileID: 11400000, guid: 9dd65b24fba9f5f41b4af56be1b725c4,
+    type: 2}
+  blacksmithUpgrdes:
+  - amount: 10
+    type: 100
+    blacksmithStat: 0
+  activable: 0

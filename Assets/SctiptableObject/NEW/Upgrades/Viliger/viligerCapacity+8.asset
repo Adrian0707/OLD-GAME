@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfaccd500e3c3af4081ebdd054240794, type: 3}
+  m_Name: viligerCapacity+8
+  m_EditorClassIdentifier: 
+  description: viligerCapacity+1
+  sprite: {fileID: 21300000, guid: d8b283ee0d11abe45b79543eabd3c2bc, type: 3}
+  sprite2: {fileID: -3894112613718088472, guid: d51dbccb646e5454c987585d0a6e2984,
+    type: 3}
+  activated: 0
+  bought: 0
+  cost: 10
+  noResources: {fileID: 11400000, guid: 1bf86f593840eb842a309c8a1091d2aa, type: 2}
+  viligerStatistics: {fileID: 11400000, guid: ddc44e9963b94534fb24e2d0fadd194d, type: 2}
+  viligerUpgrdes:
+  - amount: 2
+    type: 100
+    viligerStat: 2
+  activable: 0

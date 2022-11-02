@@ -1,0 +1,1660 @@
+fileFormatVersion: 2
+guid: 068081b2dc082a147a7c1bb30b807180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2836480152517601870
+    second: 18_midnight_spritesheet_0
+  - first:
+      213: -3643894774315503928
+    second: 18_midnight_spritesheet_1
+  - first:
+      213: -3483194083964862393
+    second: 18_midnight_spritesheet_2
+  - first:
+      213: -2921409834776107662
+    second: 18_midnight_spritesheet_3
+  - first:
+      213: -3409776947945446445
+    second: 18_midnight_spritesheet_4
+  - first:
+      213: 6062167822087531616
+    second: 18_midnight_spritesheet_5
+  - first:
+      213: 7333324851912577740
+    second: 18_midnight_spritesheet_6
+  - first:
+      213: -611563102071076472
+    second: 18_midnight_spritesheet_7
+  - first:
+      213: 1341293002823793137
+    second: 18_midnight_spritesheet_8
+  - first:
+      213: 3687885857908724931
+    second: 18_midnight_spritesheet_9
+  - first:
+      213: -1298083768606061157
+    second: 18_midnight_spritesheet_10
+  - first:
+      213: 8093268784921398680
+    second: 18_midnight_spritesheet_11
+  - first:
+      213: -1317489849786439739
+    second: 18_midnight_spritesheet_12
+  - first:
+      213: 3079114349046288548
+    second: 18_midnight_spritesheet_13
+  - first:
+      213: -1850302710861422086
+    second: 18_midnight_spritesheet_14
+  - first:
+      213: -4849972725203124513
+    second: 18_midnight_spritesheet_15
+  - first:
+      213: 1706611276178068450
+    second: 18_midnight_spritesheet_16
+  - first:
+      213: -1475377461793238234
+    second: 18_midnight_spritesheet_17
+  - first:
+      213: -393138869551162100
+    second: 18_midnight_spritesheet_18
+  - first:
+      213: -4922179752583707712
+    second: 18_midnight_spritesheet_19
+  - first:
+      213: -6953183448195280384
+    second: 18_midnight_spritesheet_20
+  - first:
+      213: 8947847874957413759
+    second: 18_midnight_spritesheet_21
+  - first:
+      213: 5074502612816047927
+    second: 18_midnight_spritesheet_22
+  - first:
+      213: -5408112245498630866
+    second: 18_midnight_spritesheet_23
+  - first:
+      213: 8913784772754894360
+    second: 18_midnight_spritesheet_24
+  - first:
+      213: -1723857503700920250
+    second: 18_midnight_spritesheet_25
+  - first:
+      213: -2253619936136452454
+    second: 18_midnight_spritesheet_26
+  - first:
+      213: -2117305632561935543
+    second: 18_midnight_spritesheet_27
+  - first:
+      213: -3188664968580161508
+    second: 18_midnight_spritesheet_28
+  - first:
+      213: 4274341151618065986
+    second: 18_midnight_spritesheet_29
+  - first:
+      213: 3541805730554344286
+    second: 18_midnight_spritesheet_30
+  - first:
+      213: 539039139303491577
+    second: 18_midnight_spritesheet_31
+  - first:
+      213: -2275492986154082127
+    second: 18_midnight_spritesheet_32
+  - first:
+      213: 4413078587445940002
+    second: 18_midnight_spritesheet_33
+  - first:
+      213: 8381363426368685138
+    second: 18_midnight_spritesheet_34
+  - first:
+      213: 2607039851422170009
+    second: 18_midnight_spritesheet_35
+  - first:
+      213: -3169163829702069654
+    second: 18_midnight_spritesheet_36
+  - first:
+      213: 3478009219320006327
+    second: 18_midnight_spritesheet_37
+  - first:
+      213: 2551438002453083617
+    second: 18_midnight_spritesheet_38
+  - first:
+      213: -3621934530570389501
+    second: 18_midnight_spritesheet_39
+  - first:
+      213: 3621277454725041769
+    second: 18_midnight_spritesheet_40
+  - first:
+      213: -7239085734652670759
+    second: 18_midnight_spritesheet_41
+  - first:
+      213: -485456920584524998
+    second: 18_midnight_spritesheet_42
+  - first:
+      213: 2534959238051979778
+    second: 18_midnight_spritesheet_43
+  - first:
+      213: 1532483578173053734
+    second: 18_midnight_spritesheet_44
+  - first:
+      213: 2979971801901197042
+    second: 18_midnight_spritesheet_45
+  - first:
+      213: 1140225233200406874
+    second: 18_midnight_spritesheet_46
+  - first:
+      213: -698643475979276941
+    second: 18_midnight_spritesheet_47
+  - first:
+      213: -2321760924485765682
+    second: 18_midnight_spritesheet_48
+  - first:
+      213: -3519999015363276306
+    second: 18_midnight_spritesheet_49
+  - first:
+      213: -1731856574154233122
+    second: 18_midnight_spritesheet_50
+  - first:
+      213: 3262611013850237078
+    second: 18_midnight_spritesheet_51
+  - first:
+      213: 5527880444272381090
+    second: 18_midnight_spritesheet_52
+  - first:
+      213: -3210120753309757107
+    second: 18_midnight_spritesheet_53
+  - first:
+      213: 7715401647479375621
+    second: 18_midnight_spritesheet_54
+  - first:
+      213: -1170386818519480535
+    second: 18_midnight_spritesheet_55
+  - first:
+      213: -5335922523655049171
+    second: 18_midnight_spritesheet_56
+  - first:
+      213: 3777383902354169814
+    second: 18_midnight_spritesheet_57
+  - first:
+      213: -6535733805898711314
+    second: 18_midnight_spritesheet_58
+  - first:
+      213: -6042600510670738070
+    second: 18_midnight_spritesheet_59
+  - first:
+      213: -8907365297867281783
+    second: 18_midnight_spritesheet_60
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc219f9a3077ed48afcd8f1de64365e
+      internalID: 2836480152517601870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c4b3f77e52034468a190c371c5e8bd
+      internalID: -3643894774315503928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec25036039e4344b654835e88caa89
+      internalID: -3483194083964862393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa23107e34df4b044ab7b4c25a1579cd
+      internalID: -2921409834776107662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43007f046de294d4e924b4fcdfaeb624
+      internalID: -3409776947945446445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef8f472b793b0458f3a6fa705c9fbe
+      internalID: 6062167822087531616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3253e5260ba3e1418928b7df7536130
+      internalID: 7333324851912577740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9a531ac2229674ca77884b2cb6f44c
+      internalID: -611563102071076472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a9ae14256d40d4dbb4443e23f10c97
+      internalID: 1341293002823793137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcba737f0824564a8591cf15cb81155
+      internalID: 3687885857908724931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe338fafbf847439f0233af8d7b7d7
+      internalID: -1298083768606061157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92d76b560f7544fb2a2504ec5a9093
+      internalID: 8093268784921398680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786b8c15e7cba2e44b0b7669a6f5b5a0
+      internalID: -1317489849786439739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d74633471d1fa54abae957958c8f192
+      internalID: 3079114349046288548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144717b37b690234ba67f3bc9f5a71f0
+      internalID: -1850302710861422086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5564ee1e28a279848bcfaff5c84d6abe
+      internalID: -4849972725203124513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87e48f95aff7d4eb948e1df35336f9
+      internalID: 1706611276178068450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a59766dda08d3b46b91b02cb214e99f
+      internalID: -1475377461793238234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9516fa62f3014f4995e372c6967f49d
+      internalID: -393138869551162100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c5728ecb7917349b6e6b41d72966f5
+      internalID: -4922179752583707712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389140d757c5cc0468d59c94a5ca3cff
+      internalID: -6953183448195280384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3941d9ad9b007fd4890bffb52e17fe4a
+      internalID: 8947847874957413759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ecc3e56495c24abfc2f18f4d975fe
+      internalID: 5074502612816047927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7fc1635fa884048a0f94ef85cadc25
+      internalID: -5408112245498630866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927d00105e8546429a11d3e02ac096d
+      internalID: 8913784772754894360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b2dbfb288c7084da8b58c59844f191
+      internalID: -1723857503700920250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f5ef77d3f7aa4e95b862ac8720b86
+      internalID: -2253619936136452454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a471ed0f785930e4684b1db993f8948e
+      internalID: -2117305632561935543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5c3325b6a3a544ca7ee3b9a0096532
+      internalID: -3188664968580161508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692c6aef552b81a4e908368a520ec72c
+      internalID: 4274341151618065986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a67dd3c20206429fe2a74fd78286f
+      internalID: 3541805730554344286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d98d800dcd0f246ac03f8217830b37
+      internalID: 539039139303491577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa2f49dc04d904b999f27a2f569a5f
+      internalID: -2275492986154082127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ade4d41ad93f9b4b99d790eb568b400
+      internalID: 4413078587445940002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed9f7ad086e122429e891fa14d8e1a3
+      internalID: 8381363426368685138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3954af57d4967a443b84418a07d4300d
+      internalID: 2607039851422170009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36962033b1723ca44a14d62b558a22bc
+      internalID: -3169163829702069654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601f52a020aad30449cbcd279270d8fa
+      internalID: 3478009219320006327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132334cac40434440840da40fca350a7
+      internalID: 2551438002453083617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbdcac03612a544872f7447f877add
+      internalID: -3621934530570389501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577aa06772d5a4540854effd45341586
+      internalID: 3621277454725041769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd8fcb293a7a344bdd3ede2d2d6005
+      internalID: -7239085734652670759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426d7aab13752541ad26184bf766690
+      internalID: -485456920584524998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cef3acce32b2349b8d318d23784f4e
+      internalID: 2534959238051979778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32b932981b2b544892e4b45a75f4d26
+      internalID: 1532483578173053734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3bed9cad503e1449439500ae0923af
+      internalID: 2979971801901197042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b091bd08e36146b6c0eb18f13d8bd
+      internalID: 1140225233200406874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb4d8a25c7bc8d408d69087b3277008
+      internalID: -698643475979276941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88685d617e5b3344a49b2b596230a39
+      internalID: -2321760924485765682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4db94deb5e5aa4d9f96246002a15c7
+      internalID: -3519999015363276306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9967b36329a964e8c7f578de907738
+      internalID: -1731856574154233122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ecad37e74eac245b0709342130da04
+      internalID: 3262611013850237078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafd3d8f29a4ed44abb9d2a7ba126e66
+      internalID: 5527880444272381090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c5d82204de6da4d909b61401daf4d4
+      internalID: -3210120753309757107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1363f100c270424dbab70a08843fd9c
+      internalID: 7715401647479375621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43de7266dad2874da478f60eafcf2ec
+      internalID: -1170386818519480535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ccd82fa894a96499c01fd2d3f110af
+      internalID: -5335922523655049171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe03810506ca434db1fefd5923a548e
+      internalID: 3777383902354169814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920858c50d5f4db40b587642b2fcf294
+      internalID: -6535733805898711314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e757d70f71ba574a92f63340b3d4af4
+      internalID: -6042600510670738070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18_midnight_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3907006fa3d9dcf4a8643c700ce9bbb8
+      internalID: -8907365297867281783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      18_midnight_spritesheet_8: 1341293002823793137
+      18_midnight_spritesheet_59: -6042600510670738070
+      18_midnight_spritesheet_24: 8913784772754894360
+      18_midnight_spritesheet_26: -2253619936136452454
+      18_midnight_spritesheet_13: 3079114349046288548
+      18_midnight_spritesheet_20: -6953183448195280384
+      18_midnight_spritesheet_36: -3169163829702069654
+      18_midnight_spritesheet_17: -1475377461793238234
+      18_midnight_spritesheet_2: -3483194083964862393
+      18_midnight_spritesheet_23: -5408112245498630866
+      18_midnight_spritesheet_30: 3541805730554344286
+      18_midnight_spritesheet_22: 5074502612816047927
+      18_midnight_spritesheet_45: 2979971801901197042
+      18_midnight_spritesheet_11: 8093268784921398680
+      18_midnight_spritesheet_27: -2117305632561935543
+      18_midnight_spritesheet_46: 1140225233200406874
+      18_midnight_spritesheet_53: -3210120753309757107
+      18_midnight_spritesheet_16: 1706611276178068450
+      18_midnight_spritesheet_5: 6062167822087531616
+      18_midnight_spritesheet_9: 3687885857908724931
+      18_midnight_spritesheet_58: -6535733805898711314
+      18_midnight_spritesheet_32: -2275492986154082127
+      18_midnight_spritesheet_1: -3643894774315503928
+      18_midnight_spritesheet_50: -1731856574154233122
+      18_midnight_spritesheet_6: 7333324851912577740
+      18_midnight_spritesheet_19: -4922179752583707712
+      18_midnight_spritesheet_29: 4274341151618065986
+      18_midnight_spritesheet_39: -3621934530570389501
+      18_midnight_spritesheet_47: -698643475979276941
+      18_midnight_spritesheet_51: 3262611013850237078
+      18_midnight_spritesheet_44: 1532483578173053734
+      18_midnight_spritesheet_41: -7239085734652670759
+      18_midnight_spritesheet_10: -1298083768606061157
+      18_midnight_spritesheet_21: 8947847874957413759
+      18_midnight_spritesheet_56: -5335922523655049171
+      18_midnight_spritesheet_3: -2921409834776107662
+      18_midnight_spritesheet_7: -611563102071076472
+      18_midnight_spritesheet_49: -3519999015363276306
+      18_midnight_spritesheet_14: -1850302710861422086
+      18_midnight_spritesheet_52: 5527880444272381090
+      18_midnight_spritesheet_18: -393138869551162100
+      18_midnight_spritesheet_35: 2607039851422170009
+      18_midnight_spritesheet_37: 3478009219320006327
+      18_midnight_spritesheet_57: 3777383902354169814
+      18_midnight_spritesheet_0: 2836480152517601870
+      18_midnight_spritesheet_33: 4413078587445940002
+      18_midnight_spritesheet_28: -3188664968580161508
+      18_midnight_spritesheet_38: 2551438002453083617
+      18_midnight_spritesheet_34: 8381363426368685138
+      18_midnight_spritesheet_48: -2321760924485765682
+      18_midnight_spritesheet_60: -8907365297867281783
+      18_midnight_spritesheet_43: 2534959238051979778
+      18_midnight_spritesheet_54: 7715401647479375621
+      18_midnight_spritesheet_55: -1170386818519480535
+      18_midnight_spritesheet_42: -485456920584524998
+      18_midnight_spritesheet_25: -1723857503700920250
+      18_midnight_spritesheet_4: -3409776947945446445
+      18_midnight_spritesheet_15: -4849972725203124513
+      18_midnight_spritesheet_40: 3621277454725041769
+      18_midnight_spritesheet_31: 539039139303491577
+      18_midnight_spritesheet_12: -1317489849786439739
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

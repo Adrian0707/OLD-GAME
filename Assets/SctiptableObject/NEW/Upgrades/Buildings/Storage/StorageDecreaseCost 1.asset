@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6627846957af67a47a7b1be557c4a828, type: 3}
+  m_Name: StorageDecreaseCost 1
+  m_EditorClassIdentifier: 
+  description: Decrease cost
+  sprite: {fileID: 21300000, guid: df087c4adae635345b4a6b0b6fcc6c71, type: 3}
+  sprite2: {fileID: 0}
+  activated: 0
+  bought: 0
+  cost: 10
+  noResources: {fileID: 11400000, guid: 1bf86f593840eb842a309c8a1091d2aa, type: 2}
+  storageStatistics: {fileID: 11400000, guid: 388777980dcc52846bdb1ecc2a6a2818, type: 2}
+  storageUpgrdes:
+  - amount: 1
+    type: 100
+    storageStat: 0
+  activable: 0
